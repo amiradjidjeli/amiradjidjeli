@@ -50,7 +50,7 @@ Ce projet met en œuvre une démarche complète allant de l’exploration des do
 
 ## 🌐 Site personnel
 
-👉 https://amiradjidjeli.github.io
+👉https://amiradjidjeli.github.io/amiradijdjeli.github.io/
 
 ---
 
